@@ -1,0 +1,89 @@
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+    background-color:rgb(255, 217, 0);
+}
+
+h1{
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    background-color: rgb(86, 15, 151);
+    margin: 0 0 0 0;
+
+}
+
+header p{
+    color:rgb(86, 15, 151);
+    font-size: 20px;
+    text-align: center;
+    margin: 0 0 0 0;
+}
+
+header img{
+    height: 40px;
+    position: fixed;
+}
+
+.english{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+.r img{
+    height: 250px;
+}
+
+h2{
+    font-size: 50px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    color: rgb(86, 15, 151);
+}
+
+.programing{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+
+
+.t h2{
+    background-color: blueviolet ;
+    color: aliceblue;
+    margin: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.kursy{
+    color: rgb(37, 5, 68);
+    text-decoration: none;
+    font-size: 30px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+
+.kursy:hover{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 50px;
+    background-color:rgb(37, 5, 68) ;
+    border-radius: 10px;
+    padding: 10px;
+    transition: 1s;
+    
+}
+
+.knopka{
+    display: flex;
+    justify-content: center;
+}
